@@ -1,4 +1,4 @@
-Este es un programa en C++ que simula un cajero automático. Aquí tienes una descripción básica para el archivo README.md:
+Este es un programa en C++ que simula un cajero automático. Aquí tienes una descripción básica para el archivo.
 
 # Proyecto: Cajero Automático en C++
 
